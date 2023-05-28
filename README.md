@@ -1,5 +1,7 @@
 # Book_Recommender
 
+## *Run the deployed version: https://shahjahanmirza-book-recommender-main-zu7bhh.streamlit.app/
+
 This is a simple book recommender, built by using cosine similarity.
 
 The data was scraped from https://books.toscrape.com/index.html and compiled into a csv, names Books.csv.
